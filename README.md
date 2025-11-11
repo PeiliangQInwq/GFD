@@ -194,15 +194,3 @@ command‑line arguments, loads the dataset, constructs the specified
 model, trains it and evaluates its performance.  Results are printed
 to the console for easy comparison across models.
 
-## Citation
-
-If you use this code or dataset, please cite the original paper:
-
-> Peiliang Qin, Rongjing Hong.  "An Uncertainty‑Aware Combined
-> Multistable Stochastic Resonance Bayesian Neural Network for Gearbox
-> Fault Diagnosis in Noisy Environments." IEEE Access. 2024.
-
-This repository and the synthetic dataset are provided for research and
-educational purposes only.  For commercial applications or use with
-proprietary data, please ensure compliance with all relevant
-regulations and guidelines.
